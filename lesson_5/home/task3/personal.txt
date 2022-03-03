@@ -1,0 +1,11 @@
+Ivanov: 20000
+Petrov: 25000
+Lavrova: 35000
+Kolesnikov: 23000
+Smirnov: 15000
+Malova: 32000
+Akunina: 18000
+Polunin: 29000
+Chirkov: 50000
+Balabanov: 34000
+Karasik: 28000
