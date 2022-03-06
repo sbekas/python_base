@@ -1,0 +1,7 @@
+It’s a good idea to name our stashes if some time is likely to pass between stashing and picking up the work again,
+but sometimes we need even more information, which is where the show
+This will tell you the following about the most recent stash:
+which files were changed
+the number of changes in each file
+the total number changes in all the files
+It’s possible to specify the stash too; just find the index number of the stash you’d like more details on and run:
