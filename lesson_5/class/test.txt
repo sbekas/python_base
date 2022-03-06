@@ -1,1 +1,0 @@
-{"name": "Damir", "languages": ["Russian", "English", "Tatarcha"], "age": 25}
